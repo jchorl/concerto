@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: s1
+    env: docker
+    rootDir: s1
